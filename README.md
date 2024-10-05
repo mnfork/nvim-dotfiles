@@ -14,3 +14,4 @@ The contents of this repo are designed to be cloned into $HOME/.config/nvim
 - markdown (https://github.com/MeanderingProgrammer/render-markdown.nvim) - markdown render
 - telescope (https://github.com/nvim-telescope/telescope.nvim) - grep based file search
 - treesitter (https://github.com/nvim-treesitter/nvim-treesitter/) - parsing tool
+
